@@ -19,7 +19,6 @@ denoiser_settings:
   sampling_eta: 0.95 # 0. to 1. -> 1 is more deterministic
   sampling_temperature: 1.0 # 0. to 1.
   sampling_steps: 100 # No of DDIM sampling steps
-  batch_size: 1
 
 # Autoencoder Settings
 first_stage_config:
